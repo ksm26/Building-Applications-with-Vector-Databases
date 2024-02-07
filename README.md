@@ -18,6 +18,10 @@ In this course, you will explore the implementation of six applications using ve
 </p>
 
 3. 🛒 **Recommender System**: Develop a system that combines semantic search and RAG to recommend topics, demonstrated with a news article dataset.
+<p align="center">
+<img src="images/3_1.png" height="350"> 
+</p>
+
 4. 🌐 **Hybrid Search**: Build an application for multimodal search using both images and descriptive text, demonstrated with an eCommerce dataset.
 5. 😊 **Facial Similarity**: Create an app to compare facial features using a database of public figures to determine likeness.
 6. 🚨 **Anomaly Detection**: Build an app to identify unusual patterns in network communication logs.
