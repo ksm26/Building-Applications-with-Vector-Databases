@@ -23,6 +23,10 @@ In this course, you will explore the implementation of six applications using ve
 </p>
 
 4. 🌐 **Hybrid Search**: Build an application for multimodal search using both images and descriptive text, demonstrated with an eCommerce dataset.
+<p align="center">
+<img src="images/4_1.png" height="300"> 
+</p>
+
 5. 😊 **Facial Similarity**: Create an app to compare facial features using a database of public figures to determine likeness.
 6. 🚨 **Anomaly Detection**: Build an app to identify unusual patterns in network communication logs.
 
