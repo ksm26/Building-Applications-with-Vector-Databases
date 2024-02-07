@@ -8,6 +8,10 @@
 In this course, you will explore the implementation of six applications using vector databases. Here's what you can expect to learn and experience:
 
 1. 🔍 **Semantic Search**: Create a search tool that focuses on the meaning of content for efficient text-based searches on a user Q/A dataset.
+<p align="center">
+<img src="images/1_1.png" height="300"> 
+</p>
+
 2. ⚙️ **Retrieval Augmented Generation (RAG)**: Enhance your LLM applications by incorporating content from external sources like the Wikipedia dataset.
 3. 🛒 **Recommender System**: Develop a system that combines semantic search and RAG to recommend topics, demonstrated with a news article dataset.
 4. 🌐 **Hybrid Search**: Build an application for multimodal search using both images and descriptive text, demonstrated with an eCommerce dataset.
