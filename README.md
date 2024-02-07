@@ -13,6 +13,10 @@ In this course, you will explore the implementation of six applications using ve
 </p>
 
 2. ⚙️ **Retrieval Augmented Generation (RAG)**: Enhance your LLM applications by incorporating content from external sources like the Wikipedia dataset.
+<p align="center">
+<img src="images/2_1.png" height="300"> 
+</p>
+
 3. 🛒 **Recommender System**: Develop a system that combines semantic search and RAG to recommend topics, demonstrated with a news article dataset.
 4. 🌐 **Hybrid Search**: Build an application for multimodal search using both images and descriptive text, demonstrated with an eCommerce dataset.
 5. 😊 **Facial Similarity**: Create an app to compare facial features using a database of public figures to determine likeness.
