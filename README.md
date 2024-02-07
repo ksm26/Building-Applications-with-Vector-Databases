@@ -28,7 +28,14 @@ In this course, you will explore the implementation of six applications using ve
 </p>
 
 5. 😊 **Facial Similarity**: Create an app to compare facial features using a database of public figures to determine likeness.
+<p align="center">
+<img src="images/5_1.png" height="300"> 
+</p>
+
 6. 🚨 **Anomaly Detection**: Build an app to identify unusual patterns in network communication logs.
+<p align="center">
+<img src="images/6_1.png" height="300"> 
+</p>
 
 ## Key Points
 - 🛠 Learn to create six exciting applications of vector databases and implement them using Pinecone.
